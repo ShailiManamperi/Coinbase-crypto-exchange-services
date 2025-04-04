@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: coinbase-service
-        image: frimeshani/frimeshani/web-service:latest
+        image: shaili/shaili/web-service:latest
         ports:
         - containerPort: 3000
